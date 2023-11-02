@@ -1,0 +1,62 @@
+body{
+    background-color: skyblue;
+
+}
+h1{
+    color: pink;
+    background-color: goldenrod;
+    font-size: 74px;
+    text-align: center;
+    font-weight: 300;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    width: 100%;
+    height: 95px;
+    text-shadow: 5px 1px rgb(0, 23, 45, 0.4);    
+}
+
+img{
+    width: 80%;
+    height: 670px;
+    margin-left: 10%;
+    border: 1px solid rgb(255,238, 0);
+    border-radius: 70px;
+    box-shadow: 10px 10px 7px black;
+}
+
+.Test{
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(125deg, red, black, crimson);
+}
+
+.Second{
+    width: 99%;
+    height: 100px;
+    background: linear-gradient(117deg, rgb(191, 124, 0), rgb(15, 222, 15), rgb(222, 222, 16));
+}
+
+.Last{
+    width: 99%;
+    height: 100px;
+    background: linear-gradient(110deg, #99f2c8, #DECBA4, #237A57);
+}
+
+.Verylast{
+    width: 99%;
+    height: 99px;
+    background: linear-gradient(111deg, #3B4371, #a80077, #66ff00);
+
+}
+
+.Extralast{
+    width: 99%;
+    height: 99px;
+    background: linear-gradient(112deg, #0099f7, #f11712);
+
+}
+
+my_div{
+    display: flex;
+    justify-content: space-around;
+}
